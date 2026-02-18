@@ -20,7 +20,7 @@
 |----|---------------|--------|-----------|---------------|-----------------|
 | 001 | Login | ❌ Error | Alta | No valida campos vacíos | `src/app/auth/login.component.ts` |
 | 002 | Dashboard | ✅ OK | - | - | `src/app/dashboard/` |
-| 003 | Reportes | ⚠️ Observación | Media | Tiempo de carga lento | `src/app/reports/report.service.ts` |
+| 003 | Reportes | ⚠️ Observación | Media | Tiempo de carga lento, déjame ver si ésta cosa se extiende en la inmensidad del sitio con las características necesarias para el proyecto | `src/app/reports/report.service.ts` |
 
 ## 🐛 Registro de Errores Detallado
 
